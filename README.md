@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ARCTECTO
 - 👀 I’m interested in Neuroscience
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Prosthetics
 - 📫 How to reach me gabrielrocha.inbox@gmail.com
 
 <!---
